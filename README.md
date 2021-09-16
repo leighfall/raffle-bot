@@ -9,4 +9,5 @@ This bot will be integrated into Discord with the purpose of tracking activity r
 
 ## Roadmap
 
+- Bot interacts with polls to tally tickets as well
 - Potential algorithm for the bot to actually execute the raffle and pick the winner.
